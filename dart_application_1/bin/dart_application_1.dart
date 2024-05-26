@@ -27,6 +27,9 @@ void main(List<String> arguments) {
   print(number2 / number1); 
   print(number2 * number1); 
 
+  print("-----------------"); 
+  print(number2 ++); 
+
   //boolean 
   bool isTrue = true; 
   bool isFalse = false;
