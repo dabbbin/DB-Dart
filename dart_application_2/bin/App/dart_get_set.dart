@@ -1,5 +1,16 @@
 void main(List<String> args) {
   
+  Idol bts = Idol.fromList([
+    ['RM', '진', '슈가', '제이홉'],
+    'BTS',
+  ]);
+
+  print(bts.firstMember);  //RM 
+  
+  bts.firstMember = '뷔'; 
+
+  print(bts.firstMember);  //뷔 
+
 }
 
 //getter/setter 
@@ -23,9 +34,13 @@ class Idol {
   }
 
   //getter 
-  get firstMembe{
-    return this.members[0];  
+  String get firstMember{
+    return this.members[0];      
   } 
 
+  //setter 
+  set firstMember(String member){ 
+    this.members[0] = member; 
+  }
   
 } 
