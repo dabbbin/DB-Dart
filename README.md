@@ -1,12 +1,16 @@
 # DB-Dart
 
-##환경셋팅 
+## 환경셋팅 
 `IDE` : VScode 
 
 1. choco 설치 후 업그레이드 (PowerShell)
 2. choco dart-sdk 설치 후 업그레이드 (cmd)
 
 ## 학습강의
-[dart 강의](https://www.inflearn.com/course/dart-%EC%96%B8%EC%96%B4-%EC%9E%85%EB%AC%B8)
+1.  [dart 기초](https://www.inflearn.com/roadmaps/617)
+2.  [Flutter App 개발](https://www.inflearn.com/roadmaps/617)
+3.  [Flutter 실전](https://www.inflearn.com/roadmaps/617)
 
 [1. DartApplciation1]()
+
+
