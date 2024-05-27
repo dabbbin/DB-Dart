@@ -8,9 +8,7 @@
 
 ## 학습강의
 1.  [dart 기초](https://www.inflearn.com/roadmaps/617)
-2.  [Flutter App 개발](https://www.inflearn.com/roadmaps/617)
-3.  [Flutter 실전](https://www.inflearn.com/roadmaps/617)
-
+   
 [1. DartApplciation1]()
 
 
