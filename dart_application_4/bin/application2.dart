@@ -22,7 +22,7 @@ void addNumbers(int number1, int number2){
     print('계산 완료: $number1 + $number2 = ${number1 + number2}'); //3
   }); 
 
-  print('함수 완료'); //4 
+  print('함수 완료: $number1 + $number2 '); //4 
 
   //동기 프로그래밍이었다면 2초를 기다린 후 함수 완료를 했을 것. => resource 낭비! 
 }   
